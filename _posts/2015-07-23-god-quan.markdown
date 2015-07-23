@@ -1,1 +1,10 @@
-*God quan*
+---
+layout: post
+title:  "God quan!"
+date:   2015年07月23日12:05:24
+categories: jekyll update
+---
+
+
+###God quan
+is my friend
