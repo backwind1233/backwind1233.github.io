@@ -8,3 +8,5 @@ categories: jekyll update
 
 ###God quan
 is my friend
+
+![蓝蓝蓝](/pic/jiaotang.jpg)
