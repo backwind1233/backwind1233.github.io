@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "God quan!"
-date:   2015年07月23日12:05:24
+date:   2015-07-23 12:05:24
 categories: jekyll update
 ---
 
@@ -9,4 +9,5 @@ categories: jekyll update
 ###God quan
 is my friend
 
-![蓝蓝蓝](/pic/jiaotang.jpg)
+
+![蓝蓝蓝](jiaotang.jpg)
